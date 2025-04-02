@@ -1,0 +1,58 @@
+   body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-image: url(fondo.jpg);
+    }
+
+    header {
+      background-color: #111416;
+      color: white;
+      text-align: center;
+      padding: 30px;
+      font-size: 24px;
+    }
+
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+      padding-bottom: 20px;
+      padding-top: 30px;
+    }
+
+    content {
+      padding: 20px;
+      text-align: center;
+    }
+    p {
+      color: white;
+      margin-left: 280px;
+      margin-right: 280px;
+    }
+
+    .imagen {
+      padding-left: 500px;
+    }
+
+    .imagen2 {
+      padding-left: 10px;
+    }
+
+    a {
+      color: white;
+    }
+
+    li {
+      color: white;
+      margin-left: 280px;
+      margin-right: 280px;
+    }
+
+    .enemigo {
+      margin-left: 600px; 
+      padding-bottom: 80px;
+    }
